@@ -34,6 +34,8 @@
 
 **Languages:**  🐹 Go · 🦋 Flutter · 🎯 Dart · 🐍 Python · 🕸️ JavaScript · ☕ Java · ⚙️ C · 🚀 C++
 
+Blockchain & Frameworks: 🌐 Solana · 🪙 Anchor · ⚙️ Pinocchio · 🧠 Web3.js · ⛓️ Metaplex
+
 **Tools & Infrastructure:**  🧰 Git · 🧪 Hardhat · 🧩 Node.js · ☁️ AWS · ⚡ Docker  
 
 ---
