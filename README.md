@@ -33,6 +33,7 @@
 ### 💼 Tech Stack  
 
 **Languages:**  🐹 Go · 🦋 Flutter · 🎯 Dart · 🐍 Python · 🕸️ JavaScript · ☕ Java · ⚙️ C · 🚀 C++
+
 **Tools & Infrastructure:**  🧰 Git · 🧪 Hardhat · 🧩 Node.js · ☁️ AWS · ⚡ Docker  
 
 ---
