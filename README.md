@@ -43,5 +43,5 @@ Blockchain & Frameworks: 🌐 Solana · 🪙 Anchor · ⚙️ Pinocchio · 🧠 
 
 <h3 align="center">🔥 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=eniyanyosuva&theme=dark&background=000000" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PIXELL07&theme=dark&background=000000" alt="GitHub streak" />
 </p>
