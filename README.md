@@ -3,7 +3,7 @@
 
 <!-- Animated Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hey+there!+👋;+I'm+Kumar!;” />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=4000&lines=Hey+there!+👋;+I'm+Kumar!;" />
 </h1>
 
 <h3 align="center">
