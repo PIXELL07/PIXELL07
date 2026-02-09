@@ -32,11 +32,11 @@
 
 ### 💼 Tech Stack  
 
-**Languages:**   🦋 Flutter · 🏹 Dart · 🐹 Go · 🐍 Python · 🕸️ JavaScript · ☕ Java  · ⛓️ C · 🚀 C++  
+**Languages:**   🦋 Flutter · 🏹 Dart · 🐹 Go · 🐍 Python · ☕ Java  · ⛓️ C · 🚀 C++  
 
 **Blockchain & Frameworks:**   🌐 Solana · 🪙 Anchor · ⚙️ Metaplex · 🧠 Web3.js 
 
-**Tools & Infrastructure:**   🧰 Git · 🧪 Hardhat · 🧩 Node.js · ☁️ AWS · ⚡ Docker  
+**Tools & Infrastructure:**   🧰 Git · ☁️ AWS · ⚡ Docker  
 
 **Databases:**   🐘 PostgreSQL · 🍃 MongoDB
 
