@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  AI Engineer | Full-Stack Developer
+  AI Engineer | Backend developer
 </h3>
 
 ---
@@ -34,11 +34,12 @@
 
 **Languages:**   🦋 Flutter · 🏹 Dart · 🐹 Go · 🐍 Python · ☕ Java  · ⛓️ C · 🚀 C++  
 
-**Blockchain & Frameworks:**   🌐 Solana · 🪙 Anchor · ⚙️ Metaplex · 🧠 Web3.js 
+**AI Technologies:**   🌐 Vector Databases RAG Pipelines · 🪙 Embeddings · ⚙️ LangChain
 
 **Tools & Infrastructure:**   🧰 Git · ☁️ AWS · ⚡ Docker  
 
 **Databases:**   🐘 PostgreSQL · 🍃 MongoDB
+
 
 ---
 
