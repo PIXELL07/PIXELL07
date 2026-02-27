@@ -32,7 +32,7 @@
 
 ### 💼 Tech Stack  
 
-**Languages:**   🦋 Flutter · 🏹 Dart · 🐹 Go · 🐍 Python · ☕ Java  · ⛓️ C · 🚀 C++  
+**Languages:**   🐹 Go · 🐍 Python · ☕ Java  · ⛓️ C · 🚀 C++  
 
 **AI Technologies:**   🌐 Vector Databases RAG Pipelines · 🪙 Embeddings · ⚙️ LangChain
 
