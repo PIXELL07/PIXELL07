@@ -13,11 +13,16 @@
 ---
 
 ### 🧠 About Me  
- Current Focus: Building intelligent applications, AI/ML models, and sleek, responsive frontend dashboards.
- Learning: Diving deeper into Generative AI, MLOps, Deep Learning, and Modern Web Architecture.
- Collaboration: Always open to teaming up on open-source projects, AI/ML tools, and backend solutions.
- Let's Chat About: Python, Artificial Intelligence, and Software Engineering.
- Fun Fact: I enjoy solving complex problems, writing efficient Python code, and turning ideas into simple, user-friendly products.
+ **Current Focus:** Building intelligent applications, AI/ML models, and sleek, responsive frontend dashboards.
+ 
+ **Learning:** Diving deeper into Generative AI, MLOps, Deep Learning, and Modern Web Architecture.
+ 
+ **Collaboration:** Always open to teaming up on open-source projects, AI/ML tools, and backend solutions.
+ 
+ **Let's Chat About:** Python, Artificial Intelligence, and Software Engineering.
+ 
+ **Fun Fact:** I enjoy solving complex problems, writing efficient Python code, and turning ideas into simple, user-friendly products.
+ 
 ---
 
 <div align="center">
