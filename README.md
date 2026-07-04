@@ -13,10 +13,11 @@
 ---
 
 ### 🧠 About Me  
-- Building scalable Apps using Flutter, Dart, and Go language
-- Exploring MPC, Validators, and Automation in Web3  
-- Currently developing high-performance Go-based projects
-- And also currently learning Embeddings & Vector Databases, RAGs, Other AI applications 
+ Current Focus: Building intelligent applications, AI/ML models, and sleek, responsive frontend dashboards.
+ Learning: Diving deeper into Generative AI, MLOps, Deep Learning, and Modern Web Architecture.
+ Collaboration: Always open to teaming up on open-source projects, AI/ML tools, and backend solutions.
+ Let's Chat About: Python, Artificial Intelligence, and Software Engineering.
+ Fun Fact: I enjoy solving complex problems, writing efficient Python code, and turning ideas into simple, user-friendly products.
 ---
 
 <div align="center">
@@ -32,13 +33,15 @@
 
 ### 💼 Tech Stack  
 
-**Languages:**   🐹 Go · 🐍 Python · ☕ Java  · ⛓️ C · 🚀 C++  
+**Languages:** Python, Go, C/C++, Java
 
-**AI Technologies:**   🌐 Vector Databases RAG Pipelines · 🪙 Embeddings · ⚙️ LangChain
+**AI / Machine Learning:** RAG, Embeddings, Vector Databases, LangChain, YOLO, OpenCV
 
-**Tools & Infrastructure:**   🧰 Git · ☁️ AWS · ⚡ Docker  
+**Data Analytics:** NumPy, Pandas, Matplotlib, Seaborn, Data Visualization
 
-**Databases:**   🐘 PostgreSQL · 🍃 MongoDB
+**Backend Technologies:** Go, PostgreSQL, MongoDB
+
+**Cloud / Developer Tools:** AWS(Basics), Git, Postman, Docker, VS Code
 
 
 ---
