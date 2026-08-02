@@ -12,16 +12,21 @@
 
 ---
 
-### 🧠 About Me  
- **Current Focus:** Building intelligent applications, AI/ML models, and sleek, responsive frontend dashboards.
- 
- **Learning:** Diving deeper into Generative AI, MLOps, Deep Learning, and Modern Web Architecture.
- 
- **Collaboration:** Always open to teaming up on open-source projects, AI/ML tools, and backend solutions.
- 
- **Let's Chat About:** Python, Artificial Intelligence, and Software Engineering.
- 
- **Fun Fact:** I enjoy solving complex problems, writing efficient Python code, and turning ideas into simple, user-friendly products.
+### 🧠 About Me
+
+**Current Focus:** Building production-ready AI/ML systems, LLM applications, and AI security tools with Python, PyTorch, and FastAPI.
+
+**Exploring:** Generative AI, LLM Security, RAG, AI Agents, Deep Learning, and Computer Vision.
+
+**Building:** AI security frameworks, document intelligence systems, autonomous evaluation platforms, and scalable AI-powered applications.
+
+**Collaboration:** Open to contributing to open-source projects in AI/ML, Generative AI, LLM Security, and intelligent backend systems.
+
+**Let's Chat About:** Python, PyTorch, FastAPI, RAG, LLMs, AI Agents, Computer Vision, and AI Security.
+
+**Goal:** Building secure, scalable, and research-driven AI systems that solve real-world problems.
+
+**Fun Fact:** I enjoy turning complex AI ideas into practical systems — from securing LLM agents to building intelligent document pipelines.
  
 ---
 
@@ -40,13 +45,14 @@
 
 **Languages:** Python, Go, C/C++, Java
 
-**AI / Machine Learning:** RAG, Embeddings, Vector Databases, LangChain, YOLO, OpenCV
+**AI / Machine Learning:** PyTorch, Scikit-learn, Transformers, Computer Vision, RAG, Embeddings, Vector
+Databases, LangChain, OpenCV, YOLO
 
-**Data Analytics:** NumPy, Pandas, Matplotlib, Seaborn, Data Visualization
+**Data Science:** NumPy, Pandas, Matplotlib, Seaborn, Data Visualization
 
-**Backend Technologies:** Go, PostgreSQL, MongoDB
+**Backend & APIs:** FastAPI, Go, PostgreSQL, MongoDB, SQLite
 
-**Cloud / Developer Tools:** AWS(Basics), Git, Postman, Docker, VS Code
+**Developer Tools:** Docker, Git, Postman, AWS (Basics), VS Code
 
 
 ---
